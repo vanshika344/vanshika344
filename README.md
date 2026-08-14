@@ -6,7 +6,6 @@
 - 🤝 Looking to collaborate on: beginner-friendly open source projects (Java/backend)
 - 💬 Ask me about: Java, DSA, backend dev, open source
 - 📫 Reach me: [LinkedIn](www.linkedin.com/in/vanshika-nanwani-970b843a1)
-- 🌱 Open source contributor via GSSoC (GirlScript Summer of Code)
 - ✨ Fellow at Girls Who Yap (GWY) Fellowship 2.0 by DoraDAO
 
 
