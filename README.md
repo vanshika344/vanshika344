@@ -17,7 +17,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ## 📌 Featured Projects
--**CRUD application** - via springboot and database
+- **CRUD application** — via springboot and database
 - **Slot Machine (Java Console App)** — turn-based game logic in Java
 - **Personal Portfolio Website** — HTML/CSS/JS
 - **Nova Agent AI Chatbot** — built during an AICTE workshop
