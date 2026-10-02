@@ -4,7 +4,7 @@
 
 - 🌱 Currently learning: Java, Spring Boot, DSA (Striver's A-Z sheet)
 - 🤝 Looking to collaborate on: beginner-friendly open source projects (Java/backend)
-- 💬 Ask me about: Java, DSA, backend dev, open source
+- 💬 Ask me about: Java,web dev, backend dev, open source
 - 🤝 contributed in GSSOC 
 - 📫 Reach me: [LinkedIn](www.linkedin.com/in/vanshika-nanwani-970b843a1)
 - ✨ Fellow at Girls Who Yap (GWY) Fellowship 2.0 by DoraDAO
